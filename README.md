@@ -2,7 +2,7 @@
 
 A simple, clean, and functional web-based music player built with HTML, CSS, and Vanilla JavaScript.
 
-![Music Player Screenshot](https://iamkartikey.vercel.app/project-screenshots/joke-teller.png)
+![Music Player Screenshot](https://iamkartikey.vercel.app/project-screenshots/music-player.png)
 
 ## Description
 
